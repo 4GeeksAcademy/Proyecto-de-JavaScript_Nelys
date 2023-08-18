@@ -7,7 +7,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  let who = ["The dog", "My grandma", "His turtle", "My bird"]; //hola
+  let who = ["The dog", "My grandma", "His turtle", "My bird"]; //holaa
   let action = ["ate", "peed", "crushed", "broke"];
   let what = ["my homework", "the keys", "the car"];
   let when = [
